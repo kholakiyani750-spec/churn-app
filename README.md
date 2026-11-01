@@ -102,5 +102,5 @@ The full analysis, including data exploration, model training, and evaluation, i
 
 ## Author
 
-Khola Noor Kiyani
+Khola Bibi
 GitHub: [@kholakiyani750-spec](https://github.com/kholakiyani750-spec)
